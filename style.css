@@ -1,0 +1,31 @@
+body{
+    background-size: cover;
+}
+.heading{
+margin: 0px;
+font-size: 23px;
+width:100%;
+}
+#start,#number_objects,#status{
+    font-size: 18px;
+}
+.footer1{
+    position:fixed;
+    color:#f5f5f5;
+    bottom:0;
+    width:100%;
+    background-color:grey ;
+    text-align: center;
+    line-height:3;
+    font-size: 15px;
+}
+canvas{
+    border:2px solid #000;
+    border-radius:5px;
+    margin-top:50px;
+    box-shadow:10px 20px 10px whitesmoke;
+    
+}
+input {
+    width:30%;
+}
